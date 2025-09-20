@@ -36,6 +36,21 @@ merge jpg, combine images, image merger, photo combiner, jpg merger, picture mer
 
 For support or questions, please contact us at support@mergejpg.me
 
-## License
+## Launch
+- [wellfound](https://wellfound.com/company/mergejpg)
+- [provenexpert](https://www.provenexpert.com/mergejpg/)
+- [x](https://x.com/mergejpg184148)
+- [github](https://github.com/mergejpg) 
+- [crunchbase](https://www.crunchbase.com/organization/mergejpg)
+- [bluesky](https://bsky.app/profile/mergejpg.bsky.social)
 
-- [ShipAny AI SaaS Boilerplate License Agreement](LICENSE)
+- [medium](https://medium.com/@yxchen1994/merge-jpg-the-privacy-first-image-merging-tool-that-protects-your-data-95cb825f73f9)
+- [hackernews](https://news.ycombinator.com/item?id=45312498)
+- [zenn](https://zenn.dev/yxchen1994/articles/d69a4eb1226c70)
+- [prismo](https://prismo.fedibird.com/posts/08c86277-40e8-4814-bfe4-0f8910577466)
+- [notion](https://simple-hortensia-51b.notion.site/Merge-JPG-Privacy-First-Image-Merging-That-Never-Leaves-Your-Browser-274ec1a2878880f4955be874e3cad61e)
+- [indiehackers](https://www.indiehackers.com/product/mergejpg)
+
+
+
+
