@@ -3,7 +3,6 @@
 Merge Multiple JPG Images Securely - Private, fast, and simple image merging in your browser.
 
 🌐 **Website**: [Try mergejpg.me](https://mergejpg.me)  
-📧 **Support**: support@mergejpg.me
 
 ## About
 
