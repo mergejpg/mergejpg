@@ -50,6 +50,7 @@ For support or questions, please contact us at support@mergejpg.me
 - [prismo](https://prismo.fedibird.com/posts/08c86277-40e8-4814-bfe4-0f8910577466)
 - [notion](https://simple-hortensia-51b.notion.site/Merge-JPG-Privacy-First-Image-Merging-That-Never-Leaves-Your-Browser-274ec1a2878880f4955be874e3cad61e)
 - [indiehackers](https://www.indiehackers.com/product/mergejpg)
+- [alternativeto](https://alternativeto.net/software/merge-jpg/about/)
 
 
 
